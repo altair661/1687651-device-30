@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Altair  Akylbekov](https://up.htmlacademy.ru/htmlcss/30/user/1687651).
-* Наставник: `Неизвестно`.
+* Наставник: [Олег Зубов](https://htmlacademy.ru/profile/id42701)
 
 ---
 
